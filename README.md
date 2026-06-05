@@ -171,6 +171,8 @@ Shows:
 - Read Data Multiplexer
 - Internal Memory Implementation
 
+![Memory Schematic Diagram ](Memory_Schematic.pdf)
+
 ---
 
 ## 4. Simulation Waveform
@@ -237,11 +239,14 @@ Contains:
 - Coverage Results
 - Verification Analysis
 
+![Memory Project Report](MEMORY_RTL_Verification_Specification.pdf)
+
 ---
 
 ## Tools Used
 
-- SystemVerilog
+- Cadence Xcelium
+- SystemVerilog 
 - QuestaSim
 - Vivado
 - EDA Playground
