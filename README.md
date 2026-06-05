@@ -245,7 +245,6 @@ Contains:
 
 ## Tools Used
 
-- Cadence Xcelium
 - SystemVerilog 
 - QuestaSim
 - Vivado
